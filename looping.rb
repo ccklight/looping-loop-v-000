@@ -1,5 +1,4 @@
-def looping
-	#your code here
-end
+This is the first in a series of short exercises to help you get the hang of looping constructs.
 
-#call your method here
+Fork and clone this lab.
+There are no tests for this lab! Code your solution in looping.rb:
